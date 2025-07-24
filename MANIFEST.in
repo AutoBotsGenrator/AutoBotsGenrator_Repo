@@ -1,0 +1,5 @@
+include vault/ken_secrets.json
+include branding/logo/shield_neon.svg
+include branding/repo_badges/*.md
+include docs/*.md
+recursive-include database/schema *.sql
